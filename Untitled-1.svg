@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EF5350;}
+	.st1{fill:#0097A7;}
+	.st2{fill:#FFA726;}
+	.st3{fill:#616161;}
+	.st4{fill:#4FC3F7;}
+	.st5{fill:#757575;}
+	.st6{font-family:'OpenSans-Semibold';}
+	.st7{font-size:54.076px;}
+	.st8{opacity:0.3;clip-path:url(#SVGID_2_);}
+	.st9{fill:#FFFFFF;}
+	.st10{fill:none;stroke:#757575;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<polygon class="st0" points="559,330.9 774.6,330.9 726.3,247.1 607.3,247.1 		"/>
+		<polygon class="st1" points="447.5,524 886.1,524 837.8,440.3 495.8,440.3 		"/>
+		<polygon class="st2" points="389.4,624.6 944.2,624.6 893.6,536.9 440,536.9 		"/>
+		<polygon class="st3" points="503.2,427.4 830.4,427.4 782,343.7 551.6,343.7 		"/>
+		<polygon class="st4" points="666.8,144.1 614.8,234.3 718.9,234.3 		"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 769.1035 114.1206)" class="st5 st6 st7">100%</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 441.9116 224.0913)" class="st5 st6 st7">80%</text>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="666.8" y="102.7" width="313.3" height="535.3"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st8">
+			<polygon class="st9" points="726.3,247.1 607.3,247.1 559,330.9 774.6,330.9 			"/>
+			<polygon class="st9" points="837.8,440.3 495.8,440.3 447.5,524 886.1,524 			"/>
+			<polygon class="st9" points="893.6,536.9 440,536.9 389.4,624.6 944.2,624.6 			"/>
+			<polygon class="st9" points="782,343.7 551.6,343.7 503.2,427.4 830.4,427.4 			"/>
+			<polygon class="st9" points="666.8,144.1 614.8,234.3 718.9,234.3 			"/>
+		</g>
+	</g>
+	<polyline class="st10" points="693.3,215.5 779.6,129.2 868.7,129.2 	"/>
+	<polyline class="st10" points="599.3,316.9 562.6,231.3 447,231 	"/>
+	<path class="st10" d="M229.7,307.4"/>
+</g>
+</svg>
